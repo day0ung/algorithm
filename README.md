@@ -1,7 +1,7 @@
 # alotorithm
 
-<sub> Beakjoon_Hub를 사용하기위해 새로운 repo를 생성하고 그곳에서 작업하다가 
-  git -mirror로 이곳 repository와 병합하려했는데, 재배치 하면서 기존에 했던 코드들이 삭제되었다. 슬프지만, Greedy부터 다시시작</sub>
+<sub> Beakjoon_Hub를 사용하기위해 새로운 repo를 생성하고 그곳에서 작업하다가    
+git -mirror로 이곳 repository와 병합하려했는데, 재배치 하면서 기존에 했던 코드들이 삭제되었다. 슬프지만, Greedy부터 다시 시작</sub>
   
 ### 📌 Greedy 
 Greedy 알고리즘은 최적해를 구하는 데 사용되는 알고리즘 중 하나로, 각 단계에서 지금 당장 가장 좋아보이는 선택을 하는 방식으로 문제를 해결한다.  
